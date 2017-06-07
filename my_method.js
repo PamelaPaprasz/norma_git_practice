@@ -1,4 +1,3 @@
 function greet(){
-  console.log('Pami');
+  console.log('Javascript');
 }
-
