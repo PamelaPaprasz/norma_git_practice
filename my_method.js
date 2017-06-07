@@ -1,4 +1,4 @@
-function greet(){
+function greet(friendName){
   console.log('Pami');
 }
 
