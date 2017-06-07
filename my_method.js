@@ -1,4 +1,4 @@
-function greet(friendName){
-  console.log('Pami');
-}
 
+function greet(){
+  console.log('Javascript');
+}
