@@ -1,5 +1,5 @@
-
-function greet(parameter){
-  console.log('Greetings for the' parameter);
+function greet(name, language){
+  console.log('Javascript');
 }
-greet('coderush');
+greet('Pami', 'Javascript')
+
