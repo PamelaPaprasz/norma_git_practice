@@ -1,4 +1,4 @@
-var age = function (month) {
-  console.log(month);
+var age = function (month, age) {
+  console.log(month + age);
 };
-age('January');
+age('January', 33);
